@@ -35,6 +35,12 @@ $ npm install -g bower
 ```bash
 $ npm install -g grunt-cli
 ```
+* SASS
+* http://stackoverflow.com/questions/20176410/how-to-resolve-you-need-to-have-ruby-and-sass-installed-and-in-your-path-for-th
+
+```bash
+gem install sass
+```
 
 ## Downloading MEAN.JS
 There are several ways you can get the MEAN.JS boilerplate:
